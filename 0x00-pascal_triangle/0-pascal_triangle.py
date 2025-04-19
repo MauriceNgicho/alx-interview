@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+A module that returns pascals triangle
+"""
 
 
 def pascal_triangle(n):
