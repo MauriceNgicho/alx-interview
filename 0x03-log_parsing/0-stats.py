@@ -5,7 +5,7 @@ import sys
 total_size = 0
 line_count = 0
 status_counts = {}
-valid_codes = ['200', '301', '400', '401', '403', '404', '405', '506']
+valid_codes = ['200', '301', '400', '401', '403', '404', '405', '500']
 
 
 def stats_print(total_size, status_counts):
