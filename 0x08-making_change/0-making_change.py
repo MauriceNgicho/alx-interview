@@ -1,4 +1,9 @@
+#!/usr/bin/python3
+"""Making change"""
+
+
 def makeChange(coins, total):
+    """A function to determine fewest coint to make change"""
     if total <= 0:
         return 0
 
